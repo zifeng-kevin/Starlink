@@ -1,0 +1,20 @@
+.sat-setting {
+    text-align: left;
+    padding: 10px;
+    border: 2px solid #ccc;
+}
+
+.setting-label {
+    color: #777;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.two-item-col {
+    display: flex;
+}
+
+.right-item {
+    margin-left: 16px;
+}
+
